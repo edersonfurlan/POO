@@ -1,0 +1,7 @@
+C:\UBS\Dev\personal\POO\FileInfo\bin\Debug\FileInfo.exe.config
+C:\UBS\Dev\personal\POO\FileInfo\bin\Debug\FileInfo.exe
+C:\UBS\Dev\personal\POO\FileInfo\bin\Debug\FileInfo.pdb
+C:\UBS\Dev\personal\POO\FileInfo\obj\Debug\FileInfoIntro.csprojAssemblyReference.cache
+C:\UBS\Dev\personal\POO\FileInfo\obj\Debug\FileInfoIntro.csproj.CoreCompileInputs.cache
+C:\UBS\Dev\personal\POO\FileInfo\obj\Debug\FileInfo.exe
+C:\UBS\Dev\personal\POO\FileInfo\obj\Debug\FileInfo.pdb
