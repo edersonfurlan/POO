@@ -1,0 +1,7 @@
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\bin\Debug\AluguelCarroSemInterface.exe.config
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\bin\Debug\AluguelCarroSemInterface.exe
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\bin\Debug\AluguelCarroSemInterface.pdb
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\obj\Debug\AluguelCarroSemInterface.csprojAssemblyReference.cache
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\obj\Debug\AluguelCarroSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\obj\Debug\AluguelCarroSemInterface.exe
+C:\Users\t661997\UBS\Dev\personal\POO\Interfaces\AluguelCarroSemInterface\obj\Debug\AluguelCarroSemInterface.pdb

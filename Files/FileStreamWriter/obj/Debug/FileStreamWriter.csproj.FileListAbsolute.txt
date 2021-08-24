@@ -1,0 +1,7 @@
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\bin\Debug\FileStreamWriter.exe.config
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\bin\Debug\FileStreamWriter.exe
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\bin\Debug\FileStreamWriter.pdb
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\obj\Debug\FileStreamWriter.csprojAssemblyReference.cache
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\obj\Debug\FileStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\obj\Debug\FileStreamWriter.exe
+C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamWriter\obj\Debug\FileStreamWriter.pdb

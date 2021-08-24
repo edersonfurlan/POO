@@ -1,0 +1,6 @@
+C:\Users\t661997\UBS\Dev\personal\POO\Files\Directory\bin\Debug\Directory.exe.config
+C:\Users\t661997\UBS\Dev\personal\POO\Files\Directory\bin\Debug\Directory.exe
+C:\Users\t661997\UBS\Dev\personal\POO\Files\Directory\bin\Debug\Directory.pdb
+C:\Users\t661997\UBS\Dev\personal\POO\Files\Directory\obj\Debug\DirectoryIntro.csproj.CoreCompileInputs.cache
+C:\Users\t661997\UBS\Dev\personal\POO\Files\Directory\obj\Debug\Directory.exe
+C:\Users\t661997\UBS\Dev\personal\POO\Files\Directory\obj\Debug\Directory.pdb
