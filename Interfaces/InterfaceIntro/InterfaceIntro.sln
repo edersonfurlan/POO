@@ -5,6 +5,16 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluguelCarroSemInterface", "..\AluguelCarroSemInterface\AluguelCarroSemInterface.csproj", "{12E2E261-29A4-481B-9EB1-4B389F3DC8DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluguelCarroComInterface", "AluguelCarroComInterface\AluguelCarroComInterface.csproj", "{69FD804E-5621-43AA-9270-6CB876FBE2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "Exercise\Exercise.csproj", "{E301B1AD-7C5E-412A-B691-FFE36B889774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractShape", "AbstractShape\AbstractShape.csproj", "{29285503-0F87-42F3-A595-044B8F7EE304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaMultipla", "HerancaMultipla\HerancaMultipla.csproj", "{A6C5CDCD-3F29-4BE1-B5FE-59C3392A5A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparacaoObjetos", "ComparacaoObjetos\ComparacaoObjetos.csproj", "{656316B3-D243-4AA7-95A3-98D84AB0625C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{12E2E261-29A4-481B-9EB1-4B389F3DC8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E2E261-29A4-481B-9EB1-4B389F3DC8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E2E261-29A4-481B-9EB1-4B389F3DC8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FD804E-5621-43AA-9270-6CB876FBE2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FD804E-5621-43AA-9270-6CB876FBE2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FD804E-5621-43AA-9270-6CB876FBE2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FD804E-5621-43AA-9270-6CB876FBE2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E301B1AD-7C5E-412A-B691-FFE36B889774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E301B1AD-7C5E-412A-B691-FFE36B889774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E301B1AD-7C5E-412A-B691-FFE36B889774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E301B1AD-7C5E-412A-B691-FFE36B889774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29285503-0F87-42F3-A595-044B8F7EE304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29285503-0F87-42F3-A595-044B8F7EE304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29285503-0F87-42F3-A595-044B8F7EE304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29285503-0F87-42F3-A595-044B8F7EE304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C5CDCD-3F29-4BE1-B5FE-59C3392A5A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C5CDCD-3F29-4BE1-B5FE-59C3392A5A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C5CDCD-3F29-4BE1-B5FE-59C3392A5A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C5CDCD-3F29-4BE1-B5FE-59C3392A5A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656316B3-D243-4AA7-95A3-98D84AB0625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656316B3-D243-4AA7-95A3-98D84AB0625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656316B3-D243-4AA7-95A3-98D84AB0625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656316B3-D243-4AA7-95A3-98D84AB0625C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
