@@ -1,7 +1,0 @@
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\bin\Debug\FileStreamReader.exe.config
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\bin\Debug\FileStreamReader.exe
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\bin\Debug\FileStreamReader.pdb
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\obj\Debug\FileStreamReader.csprojAssemblyReference.cache
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\obj\Debug\FileStreamReader.csproj.CoreCompileInputs.cache
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\obj\Debug\FileStreamReader.exe
-C:\Users\t661997\UBS\Dev\personal\POO\Files\FileStreamReader\obj\Debug\FileStreamReader.pdb

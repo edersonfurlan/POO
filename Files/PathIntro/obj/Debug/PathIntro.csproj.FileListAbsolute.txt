@@ -1,6 +1,0 @@
-C:\Users\t661997\UBS\Dev\personal\POO\Files\PathIntro\bin\Debug\PathIntro.exe.config
-C:\Users\t661997\UBS\Dev\personal\POO\Files\PathIntro\bin\Debug\PathIntro.exe
-C:\Users\t661997\UBS\Dev\personal\POO\Files\PathIntro\bin\Debug\PathIntro.pdb
-C:\Users\t661997\UBS\Dev\personal\POO\Files\PathIntro\obj\Debug\PathIntro.csproj.CoreCompileInputs.cache
-C:\Users\t661997\UBS\Dev\personal\POO\Files\PathIntro\obj\Debug\PathIntro.exe
-C:\Users\t661997\UBS\Dev\personal\POO\Files\PathIntro\obj\Debug\PathIntro.pdb
