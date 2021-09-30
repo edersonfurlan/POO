@@ -1,4 +1,4 @@
-﻿using Delegates.Entities;
+﻿using Delegates.Services;
 using System;
 
 namespace Delegates
