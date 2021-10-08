@@ -3,3 +3,24 @@
 ################################################################################
 
 /.vs
+/ClassAbstract/Abstract/obj
+/Composition/Composition/obj
+/CompositionExercise/obj
+/Enum/Course/obj
+/Exception/obj
+/ExtensionMethods/ExtensionMethods/obj
+/ExceptionExercise/obj
+/Files
+/GenericsSetDictionary
+/Inheritance/Inheritance/obj
+/InheritanceExercise1/EmployeeExercise/obj
+/InheritanceExercise2/Products/obj
+/InheritanceExercise3/TaxPayment/obj
+/Interfaces
+/LambdaDelegatesLINQ
+/MethodAbstract/ShapeArea/obj
+/SalesWebMvc/.vs/SalesWebMvc
+/SalesWebMvc/SalesWebMvc/bin/Debug/netcoreapp2.1
+/SalesWebMvc/SalesWebMvc/obj
+/StringBuilder/Travel/obj
+/Superposition/Superposition/obj
