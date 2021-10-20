@@ -22,6 +22,7 @@ namespace SalesWebMvc.Data
                 return; //o banco de dados já foi populado
 
             Department d1 = new Department(1, "Computers");
+            Department d2 = new Department(2, "Books");
             Seller s1 = new Seller(1, "Bob Brown", "bob@gmail.com", new DateTime(1988, 05, 22), 1000.0, d1);
             SalesRecord sr1 = new SalesRecord(1, new DateTime(2021, 10, 19), 11000.0, SaleStatus.Billed, s1);
 
